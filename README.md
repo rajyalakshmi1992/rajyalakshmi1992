@@ -21,6 +21,7 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="API" src="https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=api&logoColor=61DAFB" />
 </p>
 
 <h3>Courses Completed</h3>
