@@ -7,7 +7,6 @@
 <br></br>
 🔭 I love to work with Front-End projects using JavaScript, TypeScript, React programing languages.
 </p>
-<img alt="Giff" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3>Things I code with</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
